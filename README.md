@@ -1,2 +1,2 @@
 # LC
-LeetCode
+LeetCode dojo
